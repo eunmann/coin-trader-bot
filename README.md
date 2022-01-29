@@ -8,3 +8,6 @@ Coin Trader Bot is a framework for implementing trading strategies and running t
 
 ## Implemented Algorithms
 A simple [Bollinger Band](https://www.investopedia.com/terms/b/bollingerbands.asp) strategy is currently implemented.
+
+## Current State
+This is an older project or mine, so it contains old code and I do not maintain this repository anymore.
